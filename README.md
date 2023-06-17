@@ -1,46 +1,94 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hi, I'm Alireza! 👋
 
-## Available Scripts
 
-In the project directory, you can run:
+## 🚀 About Me
+I'm a front end developer with 3 year exprience...
 
-### `npm start`
+# About the Project: Reusable Components
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This project capitalizes on the strengths of React, TypeScript, and Tailwind CSS, presenting a comprehensive collection of reusable components. With components like accordions, modals, buttons, sortable tables, and normal tables, we offer a diverse range of building blocks to enhance user interfaces.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Through the utilization of navigation context, reusable link components, and providers, our project enables seamless navigation between different sections without the need for page refreshes. Leveraging the power of route components and the navigation hook, users can effortlessly move between links, navigate back and forth without refreshing the page, and achieve a smooth browsing experience without unnecessary network requests.
 
-### `npm test`
+Furthermore, we have incorporated a custom hook for the sortable component, providing intuitive sorting functionality with minimal implementation effort.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Additionally, our project features a Counter component that leverages the action and reducer features in React. With four actions and a reducer, the Counter component offers a robust foundation for managing state updates and triggering specific behaviors.
 
-### `npm run build`
+By combining the benefits of React, TypeScript, and Tailwind CSS, our project delivers a highly reusable and efficient solution for building interactive user interfaces with seamless navigation, sorting capabilities, and state management.
+## Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Client:** React, Typscript, Tailwind scss
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Server:** webpack (Node)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Database:** ---
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🛠 Skills
+Typescript, Javascript, HTML, CSS, Webpack...
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Support
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+For support, email Info@alirezamak.com.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Demo
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://alireza-mak.github.io/reusable-components
+
+
+## Authors
+
+- [@Alireza-Mak](https://www.github.com/Alireza-Mak)
+
+## Color Reference
+
+| Color                            | Hex                                                                |
+| -----------------              | ------------------------------------------------------------------       |
+| Navbar background: | ![#1F2937](https://via.placeholder.com/10/1F2937?text=+) #4A4A4A |
+| Logo color 1: | ![#54277A](https://via.placeholder.com/10/54277A?text=+) #54277A |
+| Logo color 2: | ![#7D1D21](https://via.placeholder.com/10/7D1D21?text=+) #7D1D21 |
+
+
+
+## Installation
+
+Install my-project:
+
+```bash
+  git clone https://github.com/Alireza-Mak/reusable-components.git
+```
+```bash
+  cd reusable-components
+```
+
+```bash
+  npm install
+```
+
+```bash
+  npm run start
+```
+
+    
+![Logo](https://alirezamak.com/wp-content/uploads/fav-icon-final-e1685159385524.png)
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alirezamak.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-mak/)
+[![twitter](https://img.shields.io/badge/email-1DA1F2?style=for-the-badge&logo=mail.Ru&logoColor=white)](info@alirezamak.com)
+
+
+## Screenshots
+
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-1-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-2-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-3-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-4-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-5-scaled.jpg)
+![App Screenshot](http://alirezamak.com/wp-content/uploads/reusable-components-6-scaled.jpg)
+
+
