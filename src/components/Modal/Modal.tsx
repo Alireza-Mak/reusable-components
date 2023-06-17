@@ -30,7 +30,7 @@ const Modal: React.FC<ModalProps> = ({ modalData, closeModal }) => {
         onClick={handleCloseBtn}
         className="fixed inset-0 bg-gray-300 opacity-80 z-30"
       ></div>
-      <div className="fixed inset-8 xs:inset-28 z-40 bg-white p-5 xs:p-10 rounded">
+      <div className="fixed inset-10 sm:inset-40 z-40 bg-white p-5 xs:p-10 rounded">
         <div className="flex justify-end">
           <AiFillCloseCircle
             onClick={handleCloseBtn}
