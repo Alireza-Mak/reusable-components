@@ -1,6 +1,6 @@
 import Link from '../Link/Link';
 import { useState } from 'react';
-import { RoutesType, routes } from '../Routes/Routes';
+import { RoutesType, routes, url } from '../Routes/Routes';
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -51,7 +51,7 @@ const Navbar = () => {
             </button>
           </div>
           <div className="flex items-center">
-            <Link to="/" className="flex flex-shrink-0 items-center">
+            <Link to={`${url}`} className="flex flex-shrink-0 items-center">
               <img
                 className="block h-12 w-auto lg:hidden"
                 src="./img/logo.png"
