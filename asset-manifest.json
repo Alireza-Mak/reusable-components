@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/reusable-components/static/css/main.daffa39a.css",
-    "main.js": "/reusable-components/static/js/main.cdeb93ec.js",
+    "main.js": "/reusable-components/static/js/main.fb97ce14.js",
     "index.html": "/reusable-components/index.html",
     "main.daffa39a.css.map": "/reusable-components/static/css/main.daffa39a.css.map",
-    "main.cdeb93ec.js.map": "/reusable-components/static/js/main.cdeb93ec.js.map"
+    "main.fb97ce14.js.map": "/reusable-components/static/js/main.fb97ce14.js.map"
   },
   "entrypoints": [
     "static/css/main.daffa39a.css",
-    "static/js/main.cdeb93ec.js"
+    "static/js/main.fb97ce14.js"
   ]
 }
